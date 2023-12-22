@@ -3,3 +3,16 @@ This portfolio compiles my various data science and data analysis projects, unde
 
 - **Email**: [rashmishreeveeraiah@gmail.com](rashmishreeveeraiah@gmail.com)
 - **LinkedIn**: [linkedin.com/rashmishreev](https://www.linkedin.com/in/rashmishreev/)
+
+## Projects
+
+
+<br/>
+
+## Micro Projects
+
+ 
+## Core Competencies
+
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL
+- **Tools**: MySQL, Tableau, Git, PySpark, Amazon Web Services (AWS), MS Excel
